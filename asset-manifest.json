@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dzikir-App/static/css/main.a69add1c.css",
+    "main.js": "/Dzikir-App/static/js/main.3d290cda.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Dzikir-App/static/js/787.28cb0dcd.chunk.js",
+    "static/media/gam1.WEBP": "/Dzikir-App/static/media/gam1.4fec347aa9780c68084d.WEBP",
+    "index.html": "/Dzikir-App/index.html",
+    "main.a69add1c.css.map": "/Dzikir-App/static/css/main.a69add1c.css.map",
+    "main.3d290cda.js.map": "/Dzikir-App/static/js/main.3d290cda.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Dzikir-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69add1c.css",
+    "static/js/main.3d290cda.js"
+  ]
+}
