@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/Dzikir-App/static/css/main.a69add1c.css",
-    "main.js": "/Dzikir-App/static/js/main.3d290cda.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Dzikir-App/static/js/787.28cb0dcd.chunk.js",
-    "static/media/gam1.WEBP": "/Dzikir-App/static/media/gam1.4fec347aa9780c68084d.WEBP",
-    "index.html": "/Dzikir-App/index.html",
-    "main.a69add1c.css.map": "/Dzikir-App/static/css/main.a69add1c.css.map",
-    "main.3d290cda.js.map": "/Dzikir-App/static/js/main.3d290cda.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Dzikir-App/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Dzikir-React_App/static/css/main.6ae34dcf.css",
+    "main.js": "/Dzikir-React_App/static/js/main.5096b5f7.js",
+    "static/media/gam1.WEBP": "/Dzikir-React_App/static/media/gam1.4fec347aa9780c68084d.WEBP",
+    "index.html": "/Dzikir-React_App/index.html",
+    "main.6ae34dcf.css.map": "/Dzikir-React_App/static/css/main.6ae34dcf.css.map",
+    "main.5096b5f7.js.map": "/Dzikir-React_App/static/js/main.5096b5f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a69add1c.css",
-    "static/js/main.3d290cda.js"
+    "static/css/main.6ae34dcf.css",
+    "static/js/main.5096b5f7.js"
   ]
 }
